@@ -1,0 +1,12 @@
+name: EnderchestPlugin
+version: '1.0'
+main: de.wagamundi.enderchestPlugin.EnderchestPlugin
+api-version: '1.21'
+author: Wagamundi
+
+commands:
+  enderchest:
+    descriptions: Opens the Enderchest
+    aliases:
+      - ec
+      - echest
